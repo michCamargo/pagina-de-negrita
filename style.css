@@ -1,0 +1,45 @@
+
+img{
+width: 170px;
+}
+.margarine-regular {
+    font-family: "Margarine", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+}
+
+
+.noticia{
+    font-size:xx-large;
+    color: rgb(100, 136, 100);
+    padding: 10px;
+}
+
+.rayita{
+    width:100%;
+    size: 600px;
+    color: rgba(37, 98, 142, 0.863);
+}
+.texto{
+    justify-content: center;
+    align-items: center;
+    font-size:  150%;
+    margin-left: 6%;
+    margin-right: 3%;
+
+}
+
+.margarine-regular {
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+ .link {
+    font-size: x-large;
+    color: rgb(83, 180, 64);
+    font-style:inherit;
+    text-align: center;
+ }
+  
